@@ -1,0 +1,159 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: #3c728b;
+    padding: 15px;
+    margin-top: 3px;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+}
+
+.navbar a {
+    margin-left: 10px;
+}
+
+.float {
+    float: right;
+}
+
+.btn {
+    padding: 2px 10px 5px 10px;
+    border-radius: 5%;
+}
+
+.btn-primary {
+    background-color: rgb(39, 18, 134)
+}
+
+.btn-warning {
+    background-color: rgb(184, 233, 51);
+    color: black;
+}
+
+body {
+    margin: 0;
+}
+
+.mt {
+    margin-top: 1px;
+}
+
+.row {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 33.33%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.mt-10px {
+    margin-top: 10px;
+}
+
+.card {
+    border: 3px solid rgb(117, 141, 250);
+    padding: 7px;
+    margin-left: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-center2 {
+    padding: 10px;
+    text-align: center;
+}
+
+.card img {
+    width: 30%;
+    height: 20%;
+}
+
+.card {
+    text-align: center;
+}
+
+.card a {
+    color: black;
+}
+
+.card p {
+    color: rgb(120, 115, 129);
+}
+
+.text-primery {
+    color: rgb(236, 74, 74);
+}
+
+.text-white {
+    color: beige;
+    font-family: ui-monospace;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.footer {
+    background-color: rgb(102, 77, 77);
+    padding: 5px;
+}
+
+.p-4 {
+    padding: 25px;
+}
+
+.p-5 {
+    padding: 30px;
+    background-color: rgb(172, 141, 101);
+    color: rgb(22, 14, 3);
+}
+
+.pic {
+    padding: 0px;
+    height: 45px;
+    width: 60px;
+}
+
+.email {
+    color: blue;
+}
+
+.border {
+    padding: 11px;
+    border: 2px solid grey;
+    margin: 5px;
+}
+
+input,
+select {
+    width: 250px;
+    height: 20px;
+}
+
+.button {
+    font-family: system-ui;
+    text-align: center;
+    background-color: black;
+    color: crimson;
+}
+
+.m-3 {
+    margin: 20px;
+}
